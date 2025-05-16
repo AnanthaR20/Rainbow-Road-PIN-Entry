@@ -1,5 +1,6 @@
 # Rainbow-Road-PIN-Entry
 You can **demo** the headphone variant of this Password entry method [HERE](https://ananthar20.github.io/Rainbow-Road-PIN-Entry/)
+
 The original version of this game may be published as a demo at a later time, but the code is available in the 3_color_demo branch of this repository.
 
 This is an implementation of an original PIN entry method designed by a team at the Indian Institute of Science in Bangalore in 2024. It is intended as a way to input a 4 digit password so that an adversarial on-looker (someone snooping over your shoulder) would find it difficult to figure out your password just from watching your inputs. Additionally, in the linked demo above, if a user is wearing headphones, it will offer additional security while entering a PIN.
